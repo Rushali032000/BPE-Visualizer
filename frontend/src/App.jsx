@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div style={{ maxWidth: 800, margin: '40px auto', padding: '0 20px', fontFamily: 'sans-serif' }}>
-      <h1>BPE Tokenizer Visualizer</h1>
+      <h1>Token Visualizer</h1>
 
       <div style={{ marginBottom: 16 }}>
         <label>Tokenizer: </label>
